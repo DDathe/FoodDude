@@ -1,2 +1,2 @@
 # FoodDude
-این پروژه یک ربات تلگرامی است که با استفاده از کتابخانه سلنیوم در سایت اسکرپ میکند و اتوماتیک وعده های غذایی را رزرو می کند
+Food Reservation Automation program for food.semnan.ac 
